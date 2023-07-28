@@ -1,0 +1,15 @@
+C:\Users\ufuk.balaban\Desktop\C#AdvancedProgramming\RefReturn&RefLocal\RefReturn&RefLocal\bin\Debug\net6.0\RefReturn&RefLocal.exe
+C:\Users\ufuk.balaban\Desktop\C#AdvancedProgramming\RefReturn&RefLocal\RefReturn&RefLocal\bin\Debug\net6.0\RefReturn&RefLocal.deps.json
+C:\Users\ufuk.balaban\Desktop\C#AdvancedProgramming\RefReturn&RefLocal\RefReturn&RefLocal\bin\Debug\net6.0\RefReturn&RefLocal.runtimeconfig.json
+C:\Users\ufuk.balaban\Desktop\C#AdvancedProgramming\RefReturn&RefLocal\RefReturn&RefLocal\bin\Debug\net6.0\RefReturn&RefLocal.dll
+C:\Users\ufuk.balaban\Desktop\C#AdvancedProgramming\RefReturn&RefLocal\RefReturn&RefLocal\bin\Debug\net6.0\RefReturn&RefLocal.pdb
+C:\Users\ufuk.balaban\Desktop\C#AdvancedProgramming\RefReturn&RefLocal\RefReturn&RefLocal\obj\Debug\net6.0\RefReturn&RefLocal.csproj.AssemblyReference.cache
+C:\Users\ufuk.balaban\Desktop\C#AdvancedProgramming\RefReturn&RefLocal\RefReturn&RefLocal\obj\Debug\net6.0\RefReturn&RefLocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufuk.balaban\Desktop\C#AdvancedProgramming\RefReturn&RefLocal\RefReturn&RefLocal\obj\Debug\net6.0\RefReturn&RefLocal.AssemblyInfoInputs.cache
+C:\Users\ufuk.balaban\Desktop\C#AdvancedProgramming\RefReturn&RefLocal\RefReturn&RefLocal\obj\Debug\net6.0\RefReturn&RefLocal.AssemblyInfo.cs
+C:\Users\ufuk.balaban\Desktop\C#AdvancedProgramming\RefReturn&RefLocal\RefReturn&RefLocal\obj\Debug\net6.0\RefReturn&RefLocal.csproj.CoreCompileInputs.cache
+C:\Users\ufuk.balaban\Desktop\C#AdvancedProgramming\RefReturn&RefLocal\RefReturn&RefLocal\obj\Debug\net6.0\RefReturn&RefLocal.dll
+C:\Users\ufuk.balaban\Desktop\C#AdvancedProgramming\RefReturn&RefLocal\RefReturn&RefLocal\obj\Debug\net6.0\refint\RefReturn&RefLocal.dll
+C:\Users\ufuk.balaban\Desktop\C#AdvancedProgramming\RefReturn&RefLocal\RefReturn&RefLocal\obj\Debug\net6.0\RefReturn&RefLocal.pdb
+C:\Users\ufuk.balaban\Desktop\C#AdvancedProgramming\RefReturn&RefLocal\RefReturn&RefLocal\obj\Debug\net6.0\RefReturn&RefLocal.genruntimeconfig.cache
+C:\Users\ufuk.balaban\Desktop\C#AdvancedProgramming\RefReturn&RefLocal\RefReturn&RefLocal\obj\Debug\net6.0\ref\RefReturn&RefLocal.dll
